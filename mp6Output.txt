@@ -1,0 +1,12 @@
+Original name                   Standardized name
+
+MS    Bach,   Johann    S.      Mr. Johann S. Bach
+FMCurie,     Marie A.           Mrs. Marie A. Curie
+FS Parker, Alice   M.           Ms. Alice M. Parker
+FD       Meir,Golda T.          Ms. Golda T. Meir
+MDRobeson, Paul                 Mr. Paul  Robeson
+MM         Ashe,    Arthur      Mr. Arthur  Ashe
+FM  Tubman, Harriet          A. Mrs. Harriet A. Tubman
+MSBraille,Louis                 Mr. Louis  Braille
+
+Press any key to continue . . .
